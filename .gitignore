@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.pt
+*.onnx
+*.engine
+*.mp4
+mlruns/
+mlartifacts/

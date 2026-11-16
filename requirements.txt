@@ -1,0 +1,16 @@
+numpy<2
+mlflow
+scikit-learn
+python-dotenv
+pycuda
+ultralytics
+ffmpeg-python
+tqdm
+schedule
+azure-identity
+azure-ai-ml
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-prometheus
+opencv-contrib-python
+flask
